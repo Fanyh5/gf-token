@@ -1,0 +1,1 @@
+goframe token插件
